@@ -67,5 +67,5 @@
         "*.sln": "*.csproj",
         "*.slnx": "*.csproj"
     },
-    "dotnet.defaultSolution": "Rivera_Barraba_HistoricalDino.slnx"
+    "dotnet.defaultSolution": "ARDINO.slnx"
 }
