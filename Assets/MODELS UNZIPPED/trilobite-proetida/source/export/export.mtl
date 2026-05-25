@@ -1,0 +1,50 @@
+newmtl antennae_materialSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd cephalon_colormap.tif
+bump  -bm 1 cephalon_normalmap.tif
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 18.00
+newmtl lambert7SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd leg_colormap.tif
+bump  -bm 1 leg_normalmap.tif
+Ni 1.00
+Ks 0.49 0.49 0.49
+Ns 18.00
+newmtl lambert9SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd cephalon_colormap.tif
+bump  -bm 1 cephalon_normalmap.tif
+Ni 1.00
+Ks 0.45 0.45 0.45
+Ns 12.96
+newmtl lambert10SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd pygidium_colormap.tif
+bump  -bm 1 pygidium_normalmap.tif
+Ni 1.00
+Ks 0.53 0.53 0.53
+Ns 18.00
+newmtl lambert11SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd thorax_colormap.tif
+bump  -bm 1 thorax_normalmap.tif
+Ni 1.00
+Ks 0.43 0.43 0.43
+Ns 18.00
